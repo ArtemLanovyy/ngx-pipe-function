@@ -1,3 +1,6 @@
+
+[![Optimization](https://img.shields.io/badge/optimization-max-brightgreen.svg?style=flat-square&logo=appveyor)](https://img.shields.io/badge/optimization-max-brightgreen)
+[![NPM](https://img.shields.io/npm/v/ngx-pipe-function.svg?style=popout-square)](https://www.npmjs.com/package/ngx-pipe-function)
 # Angular Optimization with Pipe Function 
 ### Angular pipe for memoize function execution in the template
 
