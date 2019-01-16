@@ -31,10 +31,10 @@ export class AppModule {}
 
 > Angular executes a pure pipe only when it detects a pure change to the input value. A pure change is either a change to a primitive input value (String, Number, Boolean, Symbol) or a changed object reference (Date, Array, Function, Object).
 
-#####Syntax
+##### Syntax
 `{{ argument | pipeFunction : method [: context] }}`
 
-#####Examples
+##### Examples
 Just provide argument and executable method to the template with `pipeFunction` 
 
 ```angular2html
